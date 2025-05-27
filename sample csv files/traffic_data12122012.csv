@@ -1,0 +1,10 @@
+JunctionName,Date,timeOfDay,travel_Direction_in,travel_Direction_out,Weather_Conditions,JunctionSpeedLimit,VehicleSpeed,VehicleType,elctricHybrid
+Elm Avenue/Rabbit Road,12/12/2012,06:00:15,W,SW,Overcast,100,120,Buss,False
+Hanley Highway/Westway,12/12/2012,09:30:25,SW,W,Overcast,80,100,Scooter,False
+Elm Avenue/Rabbit Road,12/12/2012,10:00:00,W,W,Light Rain,70,70,Car,False
+Elm Avenue/Rabbit Road,12/12/2012,10:30:00,N,N,Light Rain,100,80,Truck,True
+Elm Avenue/Rabbit Road,12/12/2012,10:50:20,NW,NW,Light Rain,100,80,Truck,True
+Hanley Highway/Westway,12/12/2012,11:01:56,E,S,Light Rain,100,80,Van,True
+Elm Avenue/Rabbit Road,12/12/2012,11:14:56,S,E,Heavy Rain,80,80,Motorcycle,True
+Hanley Highway/Westway,12/12/2012,13:10:56,NE,W,Overcast,50,40,Bicycle,True
+Hanley Highway/Westway,12/12/2012,15:25:56,NE,S,Overcast,40,10,Car,True
