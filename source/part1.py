@@ -1,6 +1,5 @@
 # Author: Senuka Dinuwara
 # Date: 12/10/2024
-# Student ID: w21204735
 
 # Task A: Input Validation
 def validate_date_input():

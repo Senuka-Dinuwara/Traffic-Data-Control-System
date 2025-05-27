@@ -1,4 +1,4 @@
-import cw_a_b_c as csv
+import part1 as csv
 # Task D: Histogram Display
 import tkinter as tk
 
@@ -177,5 +177,5 @@ class MultiCSVProcessor:
             self.clear_previous_data()  # Clear previous data for the next run
 
 
-run = MultiCSVProcessor()
-run.process_files()
+# run = MultiCSVProcessor()
+# run.process_files()
