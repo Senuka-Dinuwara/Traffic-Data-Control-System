@@ -30,8 +30,9 @@ The objective of this project is to read traffic data from a CSV file based on a
 ## 🔧 How to Run
 
 1. Ensure Python 3 is installed on your system.
-2. Place all `.csv` files and Python scripts in the same directory.
-3. Open terminal/command prompt and run:
+2. Tkinter (usually comes pre-installed with Python)
+3. Place all `.csv` files and Python scripts in the same directory.
+4. Open terminal/command prompt and run:
 
 ```bash
 python main.py
